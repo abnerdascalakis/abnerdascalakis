@@ -1,7 +1,6 @@
 # • Olá, eu me chamo Abner Dascalakis 
 
-💻 Desenvolvedor fullstack
-
+---
 
 🛠️Tecnologias e Ferramentas
 <p align="left">
