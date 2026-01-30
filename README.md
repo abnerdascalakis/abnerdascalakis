@@ -1,6 +1,8 @@
 # • Olá, eu me chamo Abner Dascalakis 
 
-💻 Desenvolvedor fullstac
+💻 Desenvolvedor fullstack
+
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
