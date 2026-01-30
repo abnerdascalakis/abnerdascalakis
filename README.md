@@ -1,8 +1,9 @@
 # • Olá, eu me chamo Abner Dascalakis 
 
-💻 Desenvolvedor Web focado em **ruby on rails e back-end funcional**  
+💻 Desenvolvedor fullstac
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="Ruby"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="Ruby on Rails"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
